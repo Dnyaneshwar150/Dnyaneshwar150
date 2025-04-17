@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Dimble</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **remote class**
+- 🔭 I’m currently working at **Peopleblox.io-Talent Readiness Platform**
 
 - 🌱 I’m currently learning **Animation library**
 
