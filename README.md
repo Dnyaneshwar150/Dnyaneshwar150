@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Op**
 
-- 👨‍💻 All of my projects are available at [https://dnyaneshwar150.github.io/Portfolio/](https://dnyaneshwar150.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [dnyaneshwardimble.xyz](https://www.dnyaneshwardimble.xyz/)
 
 - 💬 Ask me about **Next js | React js | DSA**
 
