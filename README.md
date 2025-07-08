@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dnyaneshwardimbble25436@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/j632ng](https://rb.gy/j632ng)
+-📄 Know about my experiences [http://bit.ly/45ZK3Cz](http://bit.ly/45ZK3Cz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
