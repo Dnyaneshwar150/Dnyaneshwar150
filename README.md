@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Dimble</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working at **Perimattic**
 
-- 🌱 I’m currently learning **Animation library**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Op**
 
 - 👨‍💻 All of my projects are available at [dnyaneshwardimble.xyz](https://www.dnyaneshwardimble.xyz/)
 
-- 💬 Ask me about **Next js | React js | DSA**
+- 💬 Ask me about **Next js | React js | Node js | DSA**
 
 - 📫 How to reach me **dnyaneshwardimbble25436@gmail.com**
 
