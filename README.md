@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <a href="https://www.dnyaneshwardimble.xyz/" target="_blank">
+  <a href="https://dnyane.in/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
